@@ -105,3 +105,18 @@
 [26Nov2024 18:21:16.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
 [26Nov2024 18:21:16.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
 [26Nov2024 18:21:17.008] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Nov2024 18:23:57.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b2b2152
+[26Nov2024 18:23:57.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:53760] logged in with entity id 580 at (25.785418478163535, 85.24428602380179, -45.56114807317504)
+[26Nov2024 18:23:57.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[26Nov2024 18:24:27.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
+[26Nov2024 18:24:27.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
+[26Nov2024 18:24:46.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@579f0070
+[26Nov2024 18:24:46.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:40032] logged in with entity id 665 at (25.785418478163535, 85.24428602380179, -45.56114807317504)
+[26Nov2024 18:24:46.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[26Nov2024 18:25:16.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
+[26Nov2024 18:25:16.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
+[26Nov2024 18:32:44.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d71b5e9
+[26Nov2024 18:32:44.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:43226] logged in with entity id 751 at (25.785418478163535, 85.24428602380179, -45.56114807317504)
+[26Nov2024 18:32:44.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[26Nov2024 18:33:29.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
+[26Nov2024 18:33:29.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
