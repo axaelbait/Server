@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "83111676-0d5c-3970-bd32-7281ea17e17d",
+    "name": "euckarino",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
