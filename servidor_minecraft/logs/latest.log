@@ -120,3 +120,14 @@
 [26Nov2024 18:32:44.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
 [26Nov2024 18:33:29.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
 [26Nov2024 18:33:29.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
+[26Nov2024 18:34:28.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5178efe0
+[26Nov2024 18:34:28.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:35918] logged in with entity id 861 at (24.316251445607755, 85.24428602380179, -44.947958644868734)
+[26Nov2024 18:34:28.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[26Nov2024 18:35:13.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
+[26Nov2024 18:35:13.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
+[26Nov2024 18:36:18.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c0b58c3
+[26Nov2024 18:36:18.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:42216] logged in with entity id 978 at (24.316251445607755, 85.24428602380179, -44.947958644868734)
+[26Nov2024 18:36:18.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[26Nov2024 18:37:33.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: euckarino lost connection: Timed out
+[26Nov2024 18:37:33.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino left the game
+[26Nov2024 18:43:26.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e11a1a0[id=<null>,name=euckarino,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:48398) lost connection: Timed out
