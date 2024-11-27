@@ -90,3 +90,87 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Nov2024 05:42:38.181] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41788a04
 [27Nov2024 05:42:38.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: euckarino[/[0:0:0:0:0:0:0:1%0]:52724] logged in with entity id 1112 at (-82.48572293552066, 54.0, -150.33555613210987)
 [27Nov2024 05:42:38.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino joined the game
+[27Nov2024 05:44:32.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino has made the advancement [Sweet Dreams]
+[27Nov2024 05:44:40.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino has made the advancement [Acquire Hardware]
+[27Nov2024 05:45:42.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: euckarino has made the advancement [Isn't It Iron Pick]
+[27Nov2024 05:46:57.230] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b1c145
+[27Nov2024 05:46:57.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josebaity[/[0:0:0:0:0:0:0:1%0]:42926] logged in with entity id 1986 at (12.5, 66.0, -40.5)
+[27Nov2024 05:46:57.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josebaity joined the game
+[27Nov2024 05:47:17.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=65, z=-35}
+[27Nov2024 05:47:41.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=72, z=-55}
+[27Nov2024 05:47:44.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=72, z=-56}
+[27Nov2024 05:48:24.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <euckarino> buena
+[27Nov2024 05:48:26.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <euckarino> yava
+[27Nov2024 05:48:43.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=65, z=-34}
+[27Nov2024 05:48:50.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=65, z=-34}
+[27Nov2024 05:48:51.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:52.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:53.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:54.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:54.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:54.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:54.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:54.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:55.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:55.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:55.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:48:55.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=65, z=-35}
+[27Nov2024 05:49:01.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=66, z=-40}
+[27Nov2024 05:49:01.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:02.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:03.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:04.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:04.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:04.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:04.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:04.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:04.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:05.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:05.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:05.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:05.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-40}
+[27Nov2024 05:49:06.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:06.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=66, z=-41}
+[27Nov2024 05:49:16.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [euckarino: Set own game mode to Creative Mode]
+[27Nov2024 05:49:16.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [euckarino: Set josebaity's game mode to Creative Mode]
+[27Nov2024 05:49:38.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [euckarino: Set own game mode to Survival Mode]
+[27Nov2024 05:49:57.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josebaity lost connection: Timed out
+[27Nov2024 05:49:57.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josebaity left the game
+[27Nov2024 05:50:01.331] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9f5a7ad
+[27Nov2024 05:50:01.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josebaity[/[0:0:0:0:0:0:0:1%0]:39332] logged in with entity id 2535 at (12.00200188267271, 67.0, -43.43733559689271)
+[27Nov2024 05:50:01.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josebaity joined the game
+[27Nov2024 05:51:57.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [euckarino: Set josebaity's game mode to Survival Mode]
+[27Nov2024 05:52:04.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=71, z=-61}
